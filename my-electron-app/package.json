@@ -4,7 +4,8 @@
   "description": "testing out things",
   "main": "main.js",
   "scripts": {
-    "test": "dev"
+    "test": "dev",
+    "start": "electron ."
   },
   "author": "Preisler25",
   "license": "MIT",
