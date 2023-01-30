@@ -1,0 +1,14 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "testing out things",
+  "main": "main.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "Preisler25",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^22.1.0"
+  }
+}
