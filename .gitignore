@@ -1,3 +1,6 @@
+./my-electron-app/out
+./my-electron-app/node_modules
+
 # Logs
 logs
 *.log
